@@ -48,6 +48,8 @@ choco install nodejs
 node -v
 npm -v
 
+参考リンク：
+https://zenn.dev/vkao/articles/8678cb675d5ee5   
 
 # 1. リポジトリをクローン
 git clone https://github.com/<your-username>/toyooka-ai-learning.git
